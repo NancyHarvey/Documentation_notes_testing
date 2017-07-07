@@ -10,9 +10,9 @@ Second paragraph
 
 ---
 
-**Bold Text
+**Bold Text**
 
-*Italic Text
+*Italic Text*
 
 ---
 
@@ -31,13 +31,13 @@ import net.zonarsystems.pipeline.ApplicationPipeline
 
 ---
 
-**Bullet Points  
+**Bullet Points**  
 
   * First bullet
   * Second bullet
   * Third bullet
   
-** Numbered Lists:
+**Numbered Lists**
 
   1. First
   2. Second
