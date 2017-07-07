@@ -1,4 +1,4 @@
 # hello-world
-Testing README temaplate setup
+Testing README template setup
 
 Format this to a headling style
