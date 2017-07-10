@@ -1,6 +1,6 @@
-# README Formatting
+# README Formatting (edited version)
 
-Sub-Heading
+Sub-Heading (two ways)
 ---
 
 ## Sub-Heading
@@ -32,13 +32,11 @@ import net.zonarsystems.pipeline.ApplicationPipeline
 ---
 
 **Bullet Points**  
-
   * First bullet
   * Second bullet
   * Third bullet
   
 **Numbered Lists**
-
   1. First
   2. Second
   3. Third
