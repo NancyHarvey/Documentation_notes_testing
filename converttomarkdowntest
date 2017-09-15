@@ -1,12 +1,12 @@
-# **Welcome!**
+**Welcome!**
 
 If you’re reading this document, you’re interested in contributing to the **kraken-lib project**. Many thanks for that! We welcome all types of contributions. So please feel free to share ideas, documentation, code, patches, bug reports, feature requests and more. And you don’t need to be a programmer to speak up.
 
-# **Workflows**
+**Workflows**
 
 This section explains how to perform common activities, such as reporting a bug or merging a pull request.
 
-## **Reporting bugs**
+**Reporting bugs**
 
 To report a bug, [open an issue](https://github.com/samsung-cnct/k2/issues) and summarize the bug. If you’ve never used GitHub, you first need to open a free account, log in and then click "New Issue." (Explore [GitHub Help](https://help.github.com) for more assistance).
 
